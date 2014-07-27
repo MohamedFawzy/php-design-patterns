@@ -5,6 +5,8 @@ they abstract the instantiation process. As a program comes to depend more on co
 it depends less on hardcoded instantiations and more on a flexible set of behaviors that can be arranged
 into a more complex set. Creational patterns provide ways to encapsulate knowledge
 about which concrete classes a system uses and hide information about instance creation and composition.
+
+
 1- Factory design pattern
 2- Prototype design pattern
 
