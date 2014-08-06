@@ -32,3 +32,5 @@ The patterns concerned with the structure of compositions are structural.
 as participants in a design pattern.
  
 1-Adapter Design pattern
+
+
