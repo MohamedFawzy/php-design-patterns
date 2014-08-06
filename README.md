@@ -10,9 +10,15 @@ about which concrete classes a system uses and hide information about instance c
 
 
 1- Factory design pattern
+
 Factory method pattern is a creational pattern which uses factory methods to deal with the problem of creating objects without specifying the exact class of object that will be created. This is done by creating objects via a factory method, which is either specified in an interface (abstract class) and implemented in implementing classes (concrete classes); or implemented in a base class (optionally as a template method), which can be overridden when inherited in derived classes; rather than by a constructor.
  
 2- Prototype design pattern
+
+The prototype pattern is a creational design pattern in software development. It is used when the type of objects to create is determined by a prototypical instance, which is cloned to produce new objects. This pattern is used to:
+
+avoid subclasses of an object creator in the client application, like the abstract factory pattern does.
+avoid the inherent cost of creating a new object in the standard way (e.g., using the 'new' keyword) when it is prohibitively expensive for a given application
 
 
 Structural design pattern
