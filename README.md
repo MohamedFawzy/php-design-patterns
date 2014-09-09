@@ -44,9 +44,11 @@ In software engineering, the adapter pattern is a software design pattern that a
 In object-oriented programming, the decorator pattern (also known as Wrapper, an alternative naming shared with the Adapter pattern) is a design pattern that allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class
 
 
+Behavioral pattern
+
+In software engineering, behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns. By doing so, these patterns increase flexibility in carrying out this communication.
 
 
-
-Template Design Pattern
+1- Template Design Pattern
 
 In software engineering, the template method pattern is a behavioral design pattern that defines the program skeleton of an algorithm in a method, called template method, which defers some steps to subclasses.[1] It lets one redefine certain steps of an algorithm without changing the algorithm's structure.[2] This use of "template" is unrelated to C++ templates.
