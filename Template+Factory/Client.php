@@ -5,9 +5,9 @@
  * Client class for request template
  */
 
-function __autoload($classname)
+function __autoload($class_name)
 {
-    include $classname.'.php';
+    include $class_name . '.php';
 }
 
 class Client

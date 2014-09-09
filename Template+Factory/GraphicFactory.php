@@ -5,7 +5,6 @@
  * Graphic Factory class
  * @see factory design patterns:wikipedia
  */
-
 class GraphicFactory extends Creator
 {
     /**
@@ -13,7 +12,7 @@ class GraphicFactory extends Creator
      */
     protected function factoryMethod()
     {
-        $product = new GraphicProudct();
+        $product = new GraphicProduct();
         return ($product->getProperties());
     }
 }

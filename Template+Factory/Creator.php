@@ -11,7 +11,7 @@ abstract class Creator
 
     public function doFactory()
     {
-        $mfg = $this->doFactory();
+        $mfg = $this->factoryMethod();
         return $mfg;
     }
 }
