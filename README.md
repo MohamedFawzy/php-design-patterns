@@ -47,3 +47,6 @@ In object-oriented programming, the decorator pattern (also known as Wrapper, an
 
 
 
+Template Design Pattern
+
+In software engineering, the template method pattern is a behavioral design pattern that defines the program skeleton of an algorithm in a method, called template method, which defers some steps to subclasses.[1] It lets one redefine certain steps of an algorithm without changing the algorithm's structure.[2] This use of "template" is unrelated to C++ templates.
